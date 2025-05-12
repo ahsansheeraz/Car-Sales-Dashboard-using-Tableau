@@ -42,4 +42,4 @@ The dataset is in **Excel format** and contains two sheets:
 ## 🌐 Live Preview (Optional)
 
 If published, you can view the live dashboard here:  
-👉 [Click to View Dashboard on Tableau Public](#https://public.tableau.com/app/profile/ahsan.sheeraz/viz/CarSalesDashboardusingTableau/Dashboard1)  
+👉 [Click to View Dashboard on Tableau Public](https://public.tableau.com/app/profile/ahsan.sheeraz/viz/CarSalesDashboardusingTableau/Dashboard1)  
